@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  sc_main2.cpp
+c:\users\brandon\documents\cpe_5220_digital_systems_modeling\mp_2_combinational_circuits_datapath_components\visual_studio\mp2_vs_proj\mp2_vs_proj\sc_main2.cpp(1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  sc_main.cpp
+c:\users\brandon\documents\cpe_5220_digital_systems_modeling\mp_2_combinational_circuits_datapath_components\visual_studio\mp2_vs_proj\mp2_vs_proj\sc_main.cpp(1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  mp2_vs_proj.cpp
+  Generating Code...
